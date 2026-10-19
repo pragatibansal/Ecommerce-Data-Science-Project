@@ -49,5 +49,9 @@ The project produces cleaned transaction data, sales summaries, customer and cou
 
 ## Author
 Created as a Data Science portfolio project.
+## Download Cleaned Dataset
 
+[Download cleaned_ecommerce_sales.zip](https://github.com/pragatibansal/Ecommerce-Data-Science-Project/blob/main/cleaned_ecommerce_sales.zip)
+
+Download the ZIP file and extract it to access the cleaned CSV dataset.
 
